@@ -1,0 +1,9 @@
+order_id,customer_id,product_category,sales_amount,order_date
+101,1001,Electronics,1200.0,2026-01-10
+102,1002,Clothing,150.0,2026-01-15
+103,1001,Electronics,44000.0,2026-02-14
+104,1003,Home,350.0,2026-02-20
+105,1004,Clothing,500.0,2026-03-05
+106,1005,Home,250.0,2026-03-22
+107,1002,Electronics,300.0,2026-04-10
+108,1001,Clothing,50.0,2026-04-12
